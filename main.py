@@ -64,3 +64,7 @@ javascript = Lenguaje('javascript', 1995)
 javascript.descripcion()
 html = Lenguaje('HTML', 1993)
 html.descripcion()
+lenguajes = ["Python","Ruby","PHP","Java Script", "Java"]
+for lenguaje in lenguajes:
+    print (lenguaje)
+    
